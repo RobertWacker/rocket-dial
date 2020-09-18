@@ -1,2 +1,2 @@
-# SpeedDialGO
-Speed dial extension on JS
+# Rocket dial
+Speed dial extension for browsers
